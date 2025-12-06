@@ -81,6 +81,22 @@ section h3 {
   color: #555;
 }
 
+.activity-card .participants {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-top: 10px;
+  color: #555;
+}
+
+.activity-card .participant {
+  padding: 6px 8px;
+  margin-bottom: 6px;
+  background: rgba(26,35,126,0.03);
+  border-radius: 4px;
+  font-size: 0.95rem;
+  color: #222;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
